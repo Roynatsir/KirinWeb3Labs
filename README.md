@@ -1,1 +1,1 @@
-# my-smart-contracts
+# Leviathan-Project
